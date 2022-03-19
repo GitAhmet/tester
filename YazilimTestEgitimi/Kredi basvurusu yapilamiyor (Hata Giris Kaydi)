@@ -1,0 +1,11 @@
+Kredi basvurusu sırasında hata mesajı alınıyor.
+
+Test Adımları:
+
+1-Banka uygulamasına giris yap.
+2-Kredi adımına gec.
+3-Kredi olustur tusuna bas.
+
+Beklenen sonuc: Kullanıcı kredi basvurusu yapabilir.
+
+Gerceklesen sonuc: Kullanici kredı basvurusu sirasinda 404 hatasi alıyor.
