@@ -1,4 +1,4 @@
-MOBIL UYGULAMA TESTI (HATALAR) #832=
+MOBIL UYGULAMA TESTI (HATALAR)=
 
 a.Sayfanin ust kisminda github sayfasina yonlendirme linki/url'i, sayfa daraltildiginda blok/kelime grubu olarak degil, harf harf alt satira inmektedir.
 b.Github linki altinda sayfanin solunda "Instagram" yonlendirme linki uzerinde Facebook yazmaktadir ve metin hatalari da mevcuttur (Ornek: Follow us yerine Flow us). Ayrica uzerine tiklandiginda yonlendirme yapmamaktadir/canli-aktif degildir.
